@@ -1,5 +1,7 @@
+
+
 <div align="center">
-  <h1>Hi there, I'm <a href="https://iamruveyda.github.io/">Ruveyda</a>👋 	   
+  <h1>Hi there, I'm <a href="https://iamruveyda.github.io/">Ruveyda</a>👋</h1> 	   
 </div>
 
 
@@ -87,3 +89,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/iamruveyda/" target="_blank"> <img border="0" alt="Linkedin" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/img/linkedin.svg" > </a>
 <a href="http://twitter.com/iamruveyda" target="_blank"> <img border="0" alt="Twitter" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/img/twitter.svg" > </a>
+
+<div align="center">
+  <h1>🌚🌘🌗🌝🌓🌒🌚</h1>	   
+</div>
