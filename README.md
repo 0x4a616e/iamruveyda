@@ -61,13 +61,13 @@ Here are some ideas to get you started:
 <code><img height="40" title="C Programming" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/img/c-programming.svg"></code>
 <code><img height="40" title="HTML5" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/img/html5.svg"></code>
 <code><img height="40" title="CSS" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/img/css.svg"></code>
-<code><img height="40" title="JavaScript" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/img/javascript.svg"></code>
 <code><img height="40" title="Visual Studio " src="https://github.com/iamruveyda/iamruveyda/blob/master/img/visual_studio.png?raw=true"></code>
 
 
 ## 📚 I'm currently learning & working
 
 <code><img height="40" title="Java" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/img/java.svg"></code>
+<code><img height="40" title="JavaScript" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/img/javascript.svg"></code>
 <code><img height="40" title="Python" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/img/python.svg"></code>
 <code><img height="40" title="Proteus" src="https://github.com/iamruveyda/iamruveyda/blob/master/img/proteus.png?raw=true"></code>
 
