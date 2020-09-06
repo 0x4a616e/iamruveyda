@@ -91,5 +91,5 @@ Here are some ideas to get you started:
 <a href="http://twitter.com/iamruveyda" target="_blank"> <img border="0" alt="Twitter" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/img/twitter.svg" > </a>
 
 <div align="center">
-  <h1>🌚🌘🌗🌝🌓🌒🌚</h1>	   
+  <h3>🌚🌘🌗🌝🌓🌒🌚</h3>	   
 </div>
