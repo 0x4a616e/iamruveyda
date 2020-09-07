@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/iamruveyda/My-Certificates" target="_blank">
 <p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=iamruveyda&repo=My_Certificates&theme=merko" />
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=iamruveyda&repo=My-Certificates&theme=merko" />
  
 </p>
 </a>
