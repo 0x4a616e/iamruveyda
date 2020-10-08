@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <p float="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats"> <img  src="https://github-readme-stats.vercel.app/api?username=iamruveyda&show_icons=true&include_all_commits=true&hide=contribs,prs,issues&theme=tokyonight" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamruveyda&layout=compact&theme=tokyonight" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamruveyda&layout=compact&theme=tokyonight"/></a>
  
 </p>
 
