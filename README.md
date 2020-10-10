@@ -67,6 +67,7 @@ Here are some ideas to get you started:
 ## 📚 I'm currently learning & working
 
 <code><img height="40" title="Java" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/img/java.svg"></code>
+<code><img height="40" title="C_Sharp" src="https://github.com/iamruveyda/iamruveyda/blob/master/img/C_Sharp.png?raw=true"></code>
 <code><img height="40" title="JavaScript" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/img/javascript.svg"></code>
 <code><img height="40" title="Python" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/img/python.svg"></code>
 <code><img height="40" title="Proteus" src="https://github.com/iamruveyda/iamruveyda/blob/master/img/proteus.png?raw=true"></code>
