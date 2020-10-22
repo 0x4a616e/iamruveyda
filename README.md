@@ -7,12 +7,10 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/iamruveyda/"><img height="70" alt="Linkedin" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/svg/00in.svg" ></a>
-<a href="http://twitter.com/iamruveyda"><img height="70" alt="Twitter" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/svg/00t.svg" ></a>
-<a href="https://github.com/iamruveyda"><img height="70" alt="Github" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/svg/00git.svg" ></a>
-<a href="https://medium.com/@iamruveyda"><img height="70" alt="Medium" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/svg/00med.svg" ></a>
-<a href=""><img height="70" alt="Spotify" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/svg/00sp.svg" ></a>
-
+<a href="https://www.linkedin.com/in/iamruveyda/"><img height="70" alt="Linkedin" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/linkedin.svg" ></a>
+<a href="http://twitter.com/iamruveyda"><img height="70" alt="Twitter" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/twitter.svg" ></a>
+<a href="https://github.com/iamruveyda"><img height="70" alt="Github" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/github.svg" ></a>
+<a href="https://medium.com/@iamruveyda"><img height="70" alt="Medium" src="https://raw.githubusercontent.com/iamruveyda/images/dcc32c5462b403fb6dacac352ff02ed58ef8ee84/Social%20Media/medium.svg" ></a>
 
 
 </div>
