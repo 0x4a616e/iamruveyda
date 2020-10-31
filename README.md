@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <h1>Hi there, I'm <a href="https://iamruveyda.github.io/">Ruveyda</a>👋</h1> 	   
 </div>
@@ -36,10 +34,11 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+
 <p float="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats"> <img  src="https://github-readme-stats.vercel.app/api?username=iamruveyda&show_icons=true&include_all_commits=true&hide=contribs,prs,issues&theme=tokyonight" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamruveyda&layout=compact&theme=tokyonight"/></a>
- 
+<a> <img src="https://github-readme-stats.vercel.app/api?username=iamruveyda&show_icons=true&include_all_commits=true&hide=contribs,prs,issues&theme=tokyonight" /></a>
+<a> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamruveyda&layout=compact&theme=tokyonight"/></a>
 </p>
 
 
